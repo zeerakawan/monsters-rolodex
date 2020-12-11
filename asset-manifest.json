@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/zeerakawan.github.io/monsters-rolodex/static/css/main.2c512da3.chunk.css",
+    "main.js": "/zeerakawan.github.io/monsters-rolodex/static/js/main.538228ae.chunk.js",
+    "main.js.map": "/zeerakawan.github.io/monsters-rolodex/static/js/main.538228ae.chunk.js.map",
+    "runtime-main.js": "/zeerakawan.github.io/monsters-rolodex/static/js/runtime-main.17c4f7be.js",
+    "runtime-main.js.map": "/zeerakawan.github.io/monsters-rolodex/static/js/runtime-main.17c4f7be.js.map",
+    "static/js/2.3dfd3ca0.chunk.js": "/zeerakawan.github.io/monsters-rolodex/static/js/2.3dfd3ca0.chunk.js",
+    "static/js/2.3dfd3ca0.chunk.js.map": "/zeerakawan.github.io/monsters-rolodex/static/js/2.3dfd3ca0.chunk.js.map",
+    "static/js/3.a75f96e1.chunk.js": "/zeerakawan.github.io/monsters-rolodex/static/js/3.a75f96e1.chunk.js",
+    "static/js/3.a75f96e1.chunk.js.map": "/zeerakawan.github.io/monsters-rolodex/static/js/3.a75f96e1.chunk.js.map",
+    "index.html": "/zeerakawan.github.io/monsters-rolodex/index.html",
+    "static/css/main.2c512da3.chunk.css.map": "/zeerakawan.github.io/monsters-rolodex/static/css/main.2c512da3.chunk.css.map",
+    "static/js/2.3dfd3ca0.chunk.js.LICENSE.txt": "/zeerakawan.github.io/monsters-rolodex/static/js/2.3dfd3ca0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17c4f7be.js",
+    "static/js/2.3dfd3ca0.chunk.js",
+    "static/css/main.2c512da3.chunk.css",
+    "static/js/main.538228ae.chunk.js"
+  ]
+}
